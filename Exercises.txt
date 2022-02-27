@@ -31,19 +31,7 @@ Students of Division B will attempt 5b and 6b,
 Students of Division C will attempt 5c and 6c,
 Students of Division D will attempt 5d and 6d
 		   
-5) Create a WAS (Any one from Below) 
-   a)  The SheetConverter Google Apps Script library provides functions 
-       that can retrieve the contents of a spreadsheet range in plain text or html,
-  	   preserving the formatting that is present in the spreadsheet.
-   b)  Create Calendar Events from Spreadsheet Data
-   c) Create a Drop-Down List from Spreadsheet Column
-   d) Create a WAS to send random questions from Sheet to emails
-   
-6)    
-   a)  Access albums and photos stored in Picasa / Google Photos.
-   b) Create Multiple choice Quiz from spreadsheet 
-   c) CRM using Google script
-   d) Automatically Generate Charts With Google Spreadsheets Script
+
    
  
 

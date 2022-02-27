@@ -1,0 +1,49 @@
+
+Submission Date is 2nd March
+How to submit: 
+Create Word document having screen shots of Code, Input data and output. 
+Your google account must be visible.
+Any copy based assignment will have ZERO marks.
+
+Create PDF file and upload into GOOGLE. Link will be shared. 
+
+Part 1: Google Script assignments for all students:
+1)  Creates a Google Doc and sends an email to the current user 
+     with a link to the doc.
+2)  Create a GAS to send an email to recipient from Sheet. 
+        Use HTML template for Event invitation 
+3) Create WAS for Conscent from parent and update response.
+4) Create a custom menu for data formatting 
+      Data Formatting 
+	   - Header Formatting 
+	   - Add summary 
+	      - Row totals 
+		  - Column Totals
+	   - Data Formatting 
+	       - Border 
+		   - Color cell having low values 
+		   - Count cells based on color 
+		   - Flipping Your Rows & Columns
+
+Part B: Google App Script assignment 
+Students of Division A will attempt 5a and 6a,
+Students of Division B will attempt 5b and 6b,
+Students of Division C will attempt 5c and 6c,
+Students of Division D will attempt 5d and 6d
+		   
+5) Create a WAS (Any one from Below) 
+   a)  The SheetConverter Google Apps Script library provides functions 
+       that can retrieve the contents of a spreadsheet range in plain text or html,
+  	   preserving the formatting that is present in the spreadsheet.
+   b)  Create Calendar Events from Spreadsheet Data
+   c) Create a Drop-Down List from Spreadsheet Column
+   d) Create a WAS to send random questions from Sheet to emails
+   
+6)    
+   a)  Access albums and photos stored in Picasa / Google Photos.
+   b) Create Multiple choice Quiz from spreadsheet 
+   c) CRM using Google script
+   d) Automatically Generate Charts With Google Spreadsheets Script
+   
+ 
+
